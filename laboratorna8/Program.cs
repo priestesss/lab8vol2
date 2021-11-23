@@ -31,7 +31,7 @@ namespace laboratorna8
                 }
                 Console.WriteLine(" ");
             }
-            /* ------------------------------------------ */
+            /* ----------------------------------------8887-- */
             int count_diagonal_case1 = 0;
             int count_diagonal_case2 = 0;
             for (int i = 0; i < m; i++)
